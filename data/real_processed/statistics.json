@@ -1,0 +1,11 @@
+{
+  "avg_entities_per_doc": 9.94,
+  "entity_distribution": {
+    "CDNA_PROT": 560,
+    "GENE": 374,
+    "OMIM_ID": 16,
+    "VARIANT_LOC": 313
+  },
+  "total_documents": 127,
+  "total_entities": 1263
+}
